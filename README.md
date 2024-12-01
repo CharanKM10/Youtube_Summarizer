@@ -25,11 +25,13 @@ It will open the localhost page in the browser.
 ## UI
 
 The web page looks like this:
+
 ![image](https://github.com/user-attachments/assets/73bc652b-b525-4ec1-aa2b-a3a6f8e8f2b3)
 
 The user can register and login to the account and use the service.
 
 After logging in, user can paste the youtube link, and click summarize to get the summary of the video.
+
 ![image](https://github.com/user-attachments/assets/f87eae8b-11b7-41b8-8c78-98d9c4aa8530)
 
 ### Note
